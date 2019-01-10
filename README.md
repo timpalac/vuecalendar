@@ -4,8 +4,8 @@
 
 This is a repository for:
 
-* ASME HTML Views
+* HTML Views
 * JSON Event Feeds
-* Reference Materials
+* Vue Components
 
 Run 'npm install' then 'npm run build'.  If you don't have NPM locally, get it from https://www.npmjs.com/get-npm.
