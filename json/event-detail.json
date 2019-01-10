@@ -1,0 +1,179 @@
+{
+	"Event": {
+		"Id": "000003",
+		"Name": "ASME Fluids Engineering Division Summer Meeting",
+		"StartDate": "2018-07-15T00:00:00Z",
+		"EndDate": "2018-07-19T00:00:00Z",
+		"City": "Montreal",
+		"State": "Quebec",
+		"Country": "Canada",
+		"Type": "Conferences",
+		"Image": "http://via.placeholder.com/300x300",
+		"Format": "Live",
+		"PriceType": "Pay",
+		"Description": "You are cordially invited to participate in the ASME 2018 Fluids Engineering Division Summer Meeting (FEDSM2018). The program of FEDSM2018 will include technical paper sessions, plenary lectures, committee meetings and social events. FEDSM is involved in all areas of fluid mechanics, encompassing both fundamental as well as applications, to all types of devices, processes and machines involving fluid flows. Join us in Montreal, Quebec Canada for what will surely be an exciting conference!",
+		"Registration": "http://www.google.com",
+		"Venue": {
+			"Name": "Le Centre Sheraton Hotel",
+			"Address": "1201 René-Lévesque Blvd W",
+			"Link": "http://www.google.com",
+			"AdditionalInformation": [
+				{
+					"Name": "Group Name",
+					"Value": "ASME"
+				},
+				{
+					"Name": "Guest Room Telephone Reservation",
+					"Value": "01 8977731"
+				},
+				{
+					"Name": "Guest Room Reservation Cut Off Date",
+					"Value": "August 03 2018, Friday"
+				},
+				{
+					"Name": "Sleeping Room Rate",
+					"Value": "E149/$180 USD 1/18"
+				},
+				{
+					"Name": "Applicable Taxes",
+					"Value": "Sleeping room sales tax 9%"
+				},
+				{
+					"Name": "Resort Fees",
+					"Value": "N/A"
+				},
+				{
+					"Name": "Parking Fees",
+					"Value": "Complimentary"
+				},
+				{
+					"Name": "Distance From Airport",
+					"Value": "12km/8 miles"
+				},
+				{
+					"Name": "Airport Hotel Transportation",
+					"Value": "~E20 or $25 USD"
+				}
+			]
+		},
+		"Pricing": [
+			{
+				"Type": "Members",
+				"Cost": "$250"
+			},
+			{
+				"Type": "Non-members",
+				"Cost": "$800"
+			}
+		],
+		"Contact": {
+			"Name": "Jamie Hart",
+			"Email": "hartje@asme.org",
+			"Phone": "(281) 710-9123"
+		},
+		"Sponsor": {
+			"Name": "ASME",
+			"Logo": "images/logo.png"
+		},
+		"Host": {
+			"Name": "Standards Committee on Nuclear Air and Gas Treatment"
+		},
+		"Speakers": [
+			{
+				"Id": 1,
+				"Name": "Steve Taub",
+				"Title": "Managing Director",
+				"Company": "GE Ventures",
+				"Thumbnail": "images/headshot.png",
+				"Image": "images/headshot-large.png",
+				"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+			},
+			{
+				"Id": 2,
+				"Name": "Steve Taub",
+				"Title": "Managing Director",
+				"Company": "GE Ventures",
+				"Thumbnail": "images/headshot.png",
+				"Image": "images/headshot-large.png",
+				"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+			},
+			{
+				"Id": 3,
+				"Name": "Steve Taub",
+				"Title": "Managing Director",
+				"Company": "GE Ventures",
+				"Thumbnail": "images/headshot.png",
+				"Image": "images/headshot-large.png",
+				"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+			}
+		],
+		"Resources" : [
+			{
+				"Id": 1,
+				"Name": "Event Agenda",
+				"Type": "PDF",
+				"Link": "http://www.google.com",
+				"Image": "images/pdf.png"
+			},
+			{
+				"Id": 2,
+				"Name": "Event Agenda",
+				"Type": "PDF",
+				"Link": "http://www.google.com",
+				"Image": "images/pdf.png"
+			},
+			{
+				"Id": 3,
+				"Name": "Event Agenda",
+				"Type": "PDF",
+				"Link": "http://www.google.com",
+				"Image": "images/pdf.png"
+			},
+			{
+				"Id": 4,
+				"Name": "Event Agenda",
+				"Type": "PDF",
+				"Link": "http://www.google.com",
+				"Image": "images/pdf.png"
+			},
+			{
+				"Id": 5,
+				"Name": "Event Agenda",
+				"Type": "PDF",
+				"Link": "http://www.google.com",
+				"Image": "images/pdf.png"
+			},
+			{
+				"Id": 6,
+				"Name": "Event Agenda",
+				"Type": "PDF",
+				"Link": "http://www.google.com",
+				"Image": "images/pdf.png"
+			}
+		],
+		"AdditionalInformation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+		"RelatedEvents": [
+			{
+				"Id": 1,
+				"Name": "Sub Event 1",
+				"Link": "http://www.google.com",
+				"StartDate": "2018-08-01T12:00:00Z",
+				"EndDate": "2018-08-05T16:00:00Z"
+			},
+			{
+				"Id": 2,
+				"Name": "Sub Event 2",
+				"Link": "http://www.google.com",
+				"StartDate": "2018-08-01T13:00:00Z",
+				"EndDate": "2018-08-05T18:00:00Z"
+			},
+			{
+				"Id": 3,
+				"Name": "Sub Event 3",
+				"Link": "http://www.google.com",
+				"StartDate": "2018-08-01T18:00:00Z",
+				"EndDate": "2018-08-06T02:00:00Z"
+			}
+		]
+	}
+}
