@@ -2,7 +2,7 @@
 
 ### What is this repository for? ###
 
-This is a repository for:
+This repository contains:
 
 * HTML Views
 * JSON Event Feeds
